@@ -1,0 +1,11 @@
+# For Proj.232 Aka MagFlux
+
+*.php
+*.bat
+*.sh
+*.py
+*ignore
+*ignore/
+/build/*
+
+!.gitignore
