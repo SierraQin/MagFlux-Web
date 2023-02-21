@@ -7,5 +7,6 @@
 *ignore
 *ignore/
 /build/*
+/local/*
 
 !.gitignore
